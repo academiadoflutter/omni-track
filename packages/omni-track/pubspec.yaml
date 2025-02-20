@@ -1,0 +1,21 @@
+name: omni_track
+description: >- 
+  Omni Track is a logging hub for Flutter and Dart, enabling modular drivers 
+  like omni_track_crashlytics and omni_track_sentry for seamless, scalable log management.
+version: 1.0.0-dev.0
+homepage: https://github.com/academiadoflutter/omni-track/packages/omni-track
+repository: https://github.com/academiadoflutter/omni-track/packages/omni-track
+issue_tracker: https://github.com/academiadoflutter/omni-track/issues
+resolution: workspace
+
+
+environment:
+  sdk: ^3.7.0
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0

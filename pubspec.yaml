@@ -1,0 +1,10 @@
+name: _
+description: Multi-logs tracking system
+publish_to: none
+environment:
+  sdk: ^3.7.0
+
+workspace:
+  - packages/omni-track
+  - packages/omni-track-core
+  - packages/omni-track-crashlytics
